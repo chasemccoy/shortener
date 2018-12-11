@@ -1,0 +1,13 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "baseUrl": "https://chs-shortener.netlify.com",
+  "author": "Chase McCoy <chasem000@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^1.0.2"
+  }
+}

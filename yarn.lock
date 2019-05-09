@@ -112,7 +112,7 @@ lru-cache@^4.0.1:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
 
-netlify-shortener@^1.0.2:
+netlify-shortener@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/netlify-shortener/-/netlify-shortener-1.0.2.tgz#28ccd94d9d5c99a2a1f31ac36738397799655d01"
   dependencies:
